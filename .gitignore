@@ -2,7 +2,6 @@
 Library
 Temp
 
-# Ignore the following file extensions
 # Ignore the following file extensions - incomplete
 *.exe
 *.vcproject
